@@ -18,6 +18,8 @@
 
 没有的不用填写：
 
-996: :broken_heart:`:broken_heart:`
+**996:** :broken_heart:`:broken_heart:`
 
-965/955|远程办公: :heartbeat: `:heartbeat:`
+**965/955|远程办公:** :heartbeat: `:heartbeat:`
+
+**吐槽/爆料**：请提issue,放链接
