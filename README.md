@@ -18,8 +18,17 @@
 
 没有的不用填写：
 
-**996:** :broken_heart:`:broken_heart:`
+**996:** :black_heart:`:black_heart:`
 
 **965/955|远程办公:** :heartbeat: `:heartbeat:`
 
 **吐槽/爆料**：请提issue,放链接
+
+### 招聘贡献
+
+按以下格式新增：
+企业名称|详细地址|岗位|薪资待遇|详细介绍
+---|---|---|---|---
+[XXXXX](http://xxxxxx.cn/)|西安软件园|架构师|20k-30k|[XXXXX](http://xxxxxx.cn/)
+
+岗位和详细介绍请放issue地址
