@@ -8,7 +8,7 @@
 ## 招聘
 企业名称|详细地址|岗位|薪资待遇|详细介绍
 ---|---|---|---|---
-[号码之家](https://hot.haoma.com/)|西安市高新区延平门旺座国际城B座|java中级工程师|7k-10K|[西安飞翔通讯有限公司。公司行业稳定，在发展上升阶段，需要各位有志之士前来加入。公司规模接近300人，研发团队30人，团队内部氛围融洽，积极向上，每个人都在持续不断学习。一月一次团建，不定期公司内部茶歇party。](https://www.zhipin.com/gongsi/1393ab161c7a44d41ndz09W7FQ~~.html?ka=search_list_company_1_custompage)
+[号码之家](https://hot.haoma.com/)|西安市高新区延平门旺座国际城B座|java中级工程师|7k-10K|[号码之家岗位详情 ](https://github.com/xianlab/keng/issues/4)
 [号码之家](https://hot.haoma.com/)|西安市高新区延平门旺座国际城B座|java高级工程师|10k-15K|[同上](https://www.zhipin.com/gongsi/1393ab161c7a44d41ndz09W7FQ~~.html?ka=search_list_company_1_custompage)
 ## 公司
 企业名称|详细地址|996|965/955|远程办公|吐槽/爆料
